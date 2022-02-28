@@ -1,1 +1,1 @@
-# balazic_refactor
+The main goal of this project was to prioritize web accessibility including the use of semantic HTML elements, alternate img tags, logical code organization, and easy to follow instructions/descriptions of the functionality of the code. The project was a success in these areas and is welcome for any further improvement.
